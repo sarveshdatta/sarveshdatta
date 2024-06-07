@@ -1,8 +1,10 @@
+Hi there 👋👋
+
 - 👋 Hi, I’m @sarveshdatta
-- 👀 I’m interested in the hackathon 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in nothing 
+- 🌱 I’m currently learning Python HTML 
 - 📫 How to reach me sarveshdatta410@gmail.com  
-- 😄 Pronouns: sarvesh datta  
+- 😄 Pronouns: He/Him 
 
 <!---
 sarveshdatta/sarveshdatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
