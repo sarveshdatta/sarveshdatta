@@ -4,7 +4,7 @@ Hi there 👋👋
 - 👀 I’m interested in nothing 
 - 🌱 I’m currently learning Python HTML 
 - 📫 How to reach me sarveshdatta410@gmail.com  
-- 😄 Pronouns: He/Him 
+- 🥷 Pronouns: He/Him 
 
 <!---
 sarveshdatta/sarveshdatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
