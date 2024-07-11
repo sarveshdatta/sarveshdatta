@@ -3,7 +3,7 @@ Hi there 👋👋
 - 👋 Hi, I’m @sarveshdatta
 - 👀 I’m interested in making friends  
 - 🌱 I’m currently learning Python HTML 
-- 📫 How to reach me sarveshdatta410@gmail.com  
+- 📫 How to reach me dattasarvesh410@gmail.com  
 - 🥷 Pronouns: He/Him 
 
 <!---
